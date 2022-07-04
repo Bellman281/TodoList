@@ -1,2 +1,2 @@
 # TodoList
-Todo List project usinf FLASK 
+Todo List project using FLASK API
